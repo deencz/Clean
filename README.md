@@ -1,2 +1,5 @@
-# Clean
- Clean theme
+# Clean Theme
+
+## Preview
+![Theme preview](/preview.jpg)
+
