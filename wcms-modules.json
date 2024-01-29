@@ -1,8 +1,8 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
-            "name": "Sky",
+        "clean": {
+            "name": "Clean",
             "repo": "https://github.com/deencz/Clean/tree/master",
             "zip": "https://github.com/deencz/Clean/archive/master.zip",
             "summary": "Clean theme",
